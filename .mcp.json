@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "uk-premises-licence-mcp": {
+      "type": "http",
+      "url": "https://premises.regevidencehub.com/mcp"
+    }
+  }
+}
