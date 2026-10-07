@@ -1,0 +1,10 @@
+{
+  "name": "uk-premises-licence-mcp-connector",
+  "version": "1.0.0",
+  "description": "Evidence-first premises-licensing preflight under the Licensing Act 2003.",
+  "mcpServers": {
+    "uk-premises-licence-mcp": {
+      "httpUrl": "https://premises.regevidencehub.com/mcp"
+    }
+  }
+}
